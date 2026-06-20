@@ -96,4 +96,5 @@ Customer Analytics,
 Churn Analysis,
 
 Dashboard Preview
-<img width="963" height="540" alt="Telecom Customer analysis" src="https://github.com/user-attachments/assets/9b6bb042-7406-4606-a813-06469516ce70" />
+<img width="1211" height="676" alt="Dashboard preview" src="https://github.com/user-attachments/assets/f6fdfc34-27a4-4033-b30c-0121dc4b490a" />
+
